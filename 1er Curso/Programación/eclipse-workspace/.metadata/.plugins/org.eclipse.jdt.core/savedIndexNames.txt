@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\Buji\Desktop\DAM 25-26\1er Curso\Programación\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1864650337.index
+1865797976.index
+2705922391.index
+2278708578.index
+3833189833.index
+4220676452.index

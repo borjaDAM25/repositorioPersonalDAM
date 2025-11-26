@@ -1,0 +1,29 @@
+package vista;
+
+public class PrincipalMedicos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		modelo.Medico medico1=new modelo.Medico(1234, "Juan Martinez", 52, "Auxiliar", 24, "HUCA", true);		
+		
+	
+		
+		System.out.println(medico1.sueldo());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

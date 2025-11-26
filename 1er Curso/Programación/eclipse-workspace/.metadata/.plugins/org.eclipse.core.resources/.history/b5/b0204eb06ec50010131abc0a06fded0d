@@ -1,0 +1,31 @@
+package vista;
+
+public class PrincipalMedicos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		modelo.Medico medico=new modelo.Medico();
+		
+		medico.edad=23;
+		
+		System.out.println(medico.edad);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

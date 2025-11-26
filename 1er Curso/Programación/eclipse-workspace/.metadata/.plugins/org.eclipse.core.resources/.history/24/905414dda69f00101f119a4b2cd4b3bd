@@ -1,0 +1,19 @@
+
+public class ejerciciosBloque2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Ejercicio 1
+		
+		final String NOMBRE="Borja";
+		System.out.println(NOMBRE);
+		
+		
+		
+		
+		
+
+	}
+
+}

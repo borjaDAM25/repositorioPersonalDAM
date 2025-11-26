@@ -1,0 +1,23 @@
+package modelo;
+
+public class Medico {
+
+	
+	private String numColeg;
+	private String nomApe;
+	private int edad;
+	private String espec;
+	private int exp;
+	private String centro;
+	private boolean activo;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
