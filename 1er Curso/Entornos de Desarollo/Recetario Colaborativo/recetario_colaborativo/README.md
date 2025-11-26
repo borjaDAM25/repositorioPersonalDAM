@@ -1,0 +1,2 @@
+# recetario_colaborativo
+repositorio recetario colaborativo
